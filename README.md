@@ -1,3 +1,3 @@
 # TicTacToe
 ## Overview
-This is a C++ implementation of the traditional Tic Tac Toe board game.
+This is a Java implementation of the traditional Tic Tac Toe board game.
